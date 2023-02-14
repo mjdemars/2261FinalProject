@@ -21,3 +21,4 @@
 * SELECT: interact with towers and raccoons
 * START: pause the game
 
+### The game can be ran at this link: https://gba.ninja/?autorun=https://github.com/mjdemars/2261FinalProject/blob/main/FINAL_DeMarsMaddalen/Project.gba
