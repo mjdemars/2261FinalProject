@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "main_menu.h": "c",
+        "sound.h": "c",
+        "pause_song.h": "c"
+    }
+}
